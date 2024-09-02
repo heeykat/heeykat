@@ -3,6 +3,10 @@
 <!--
 **heeykat/heeykat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+About me
+I am 34 year old programmer from Omsk 💻
+I learn Java at [Job4j](https://job4j.ru/) ☕
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
